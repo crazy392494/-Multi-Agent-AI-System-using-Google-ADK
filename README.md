@@ -17,7 +17,6 @@ This system uses a planner and 3 agents to:
 
 ## Run
 python main.py
-# Multi-Agent AI: SpaceX Launch Status Checker
 
 
 
