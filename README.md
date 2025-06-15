@@ -19,19 +19,5 @@ This system uses a planner and 3 agents to:
 python main.py
 # Multi-Agent AI: SpaceX Launch Status Checker
 
-## Description
-This AI system uses multiple agents to:
-- Get the next SpaceX launch
-- Find the launchpad location
-- Get weather conditions there
-- Predict if the launch may be delayed
 
-## Tech
-- Python
-- SpaceX API
-- OpenWeatherMap API
-
-## Setup
-```bash
-pip install -r requirements.txt
 
